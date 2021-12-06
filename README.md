@@ -69,3 +69,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # PokemonUniteList
+"# PokemonUniteList"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/gadshiva645/PokemonUniteList.git git push -u origin main
+# PokemonUniteList
