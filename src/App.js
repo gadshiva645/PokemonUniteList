@@ -1,6 +1,7 @@
 import Card from './components/Card';
 import React, { useState } from 'react';
 
+// Netlify website url https://friendly-lewin-3a2730.netlify.app/
 
 function App() {
 
